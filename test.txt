@@ -1,0 +1,1 @@
+Hei, dette er en test og en demo for å sjekke hvordan git funker.
